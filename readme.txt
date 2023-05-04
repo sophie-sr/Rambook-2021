@@ -1,3 +1,5 @@
+# File Structure
+
 createthumbnail.php
 	creates the thumbnails for uploaded photos
 downloadall.php
