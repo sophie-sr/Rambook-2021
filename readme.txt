@@ -1,3 +1,6 @@
+# Contributors
+Sophie Rao, Stephanie Yang, and Shreya Sivakumar. Made for CS11 class in 2021.
+
 # File Structure
 
 createthumbnail.php
@@ -9,7 +12,7 @@ favicon.ico
 footer.inc
 	the footer of the website
 form.css
-	the css of the website, makes everything look pretty
+	the css of the website
 form.inc
 	html form
 form.js
