@@ -1,0 +1,38 @@
+[
+    {
+        "name": "suhao",
+        "agree": "on",
+        "connection": "alumni",
+        "grades": "",
+        "bio": "dfdfd",
+        "uid": "1",
+        "imageType": "png"
+    },
+    {
+        "name": "ASDF",
+        "agree": "on",
+        "connection": "alumni",
+        "grades": "",
+        "bio": "scdcs",
+        "uid": "2",
+        "imageType": "png"
+    },
+    {
+        "name": "SRTE",
+        "agree": "on",
+        "connection": "staff",
+        "grades": "",
+        "bio": "fdfs",
+        "uid": "3",
+        "imageType": "png"
+    },
+    {
+        "name": "kjiu",
+        "agree": "on",
+        "connection": "alumni",
+        "grades": "",
+        "bio": "sdsa",
+        "uid": "4",
+        "imageType": "png"
+    }
+]
